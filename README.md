@@ -1,1 +1,3 @@
 # StockPortfolioTrading
+
+This project simulates an online mock-stock portfolio.  The purpose of this is to give individuals practice investing without actually risking real money (a series of self-guided “drills” you might say).  A user can see a few top stocks / index funds on the main page, and they will be able to search manually for stocks they wish to view or purchase.  These stocks and search results will be sourced from a publicly-available API. Users can “deposit” money and use that money to buy more stocks.  They will be able to view a dashboard and see how their stocks are doing, and they will be able to sell stocks if they so choose.
